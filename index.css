@@ -40,7 +40,7 @@ body{
     
 
 }
-#btn {
+#submit {
     background-color: rgb(255, 113, 255);
     border: none;
    
@@ -55,7 +55,7 @@ body{
   
   
   
-  #btn:hover {
+  #submit:hover {
     background-color: rgb(250, 10, 250);
     color: rgb(255, 255, 255);
   }
