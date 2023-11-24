@@ -24,7 +24,7 @@ const submit=document.getElementById('myFORM')
 //         console.log(res);
 //     })
 // }
-// submit.addEventListener('submit', axiosPost)
+// myFORM.addEventListener('submit', axiosPost)
 
 
 
@@ -54,7 +54,7 @@ const submit=document.getElementById('myFORM')
 //         console.log(res);
 //     })
 // }
-// submit.addEventListener('submit', axiosPost)
+// myFORM.addEventListener('submit', axiosPost)
 
 
 
@@ -93,4 +93,4 @@ const submit=document.getElementById('myFORM')
 //         console.log(res);
 //     })
 // }
-// submit.addEventListener('submit', axiosPost)
+// myFORM.addEventListener('submit', axiosPost)
